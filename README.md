@@ -4,4 +4,4 @@
 
 ### Articles 📰
 - [What the flip is the Metaverse?](https://www.rte.ie/brainstorm/2021/1109/1258766-metaverse-virtual-reality-facebook-mark-zuckerberg/) <br/>
-via *RTÉ Brainstorm*
+*via [RTÉ Brainstorm](https://www.rte.ie/brainstorm/)* 
