@@ -8,8 +8,8 @@
 
 ### Education 🎓
 - PhD, Computer Graphics <br/>
-*Technological University Dublin* 
+*[Technological University Dublin](https://www.tudublin.ie/)* 
 - MSc, Computer Science <br/>
-*University College Dublin* 
+*[University College Dublin](https://www.ucd.ie/)* 
 - BSc, Multimedia Systems/Web Engineering <br/>
-*IADT Dún Laoghaire* 
+*[IADT Dún Laoghaire](https://iadt.ie/)* 
