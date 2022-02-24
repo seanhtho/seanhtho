@@ -15,7 +15,9 @@
 *[IADT Dún Laoghaire](https://iadt.ie/)* 
 
 ### Links 🔗
+- [Personal Website](https://seanthomas.dev)
 - [ORCID](https://orcid.org/0000-0003-0701-7246)
-- [LinkedIn](https://www.linkedin.com/in/thatseantho/)
+- [LinkedIn](https://www.linkedin.com/in/seanthomasdev/)
+- [Stack Overflow](https://stackoverflow.com/users/18299454/seanthomasdev)
 - [RTÉ](https://www.rte.ie/author/1258790-sean-thomas/)
 - [D-REAL](https://d-real.ie/current-d-real-phd-students/)
