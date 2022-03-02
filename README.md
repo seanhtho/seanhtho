@@ -7,8 +7,6 @@
 *via [RTÉ Brainstorm](https://www.rte.ie/brainstorm/)* 
 
 ### Education 🎓
-- **PhD**, Computer Graphics <br/>
-*[Technological University Dublin](https://www.tudublin.ie/)* 
 - **MSc**, Computer Science <br/>
 *[University College Dublin](https://www.ucd.ie/)* 
 - **BSc**, Multimedia Systems/Web Engineering <br/>
